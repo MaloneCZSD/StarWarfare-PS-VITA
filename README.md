@@ -1,3 +1,4 @@
+![2026-01-01-202127-842099](https://github.com/user-attachments/assets/d04e62f4-5028-4404-8fe3-fbc26e7d4de1)
 # Star Warfare for PS VITA
 This port is based on the **1.0.2** decompilation project of **Star Warfare: Alien Invasion** (or 2.97 in-game version) by [Decomp And Recomp](https://github.com/Decomp-And-Recomp/Star-Warfare) with adjustements to controls and minor optimizations for the platform.
 
@@ -20,3 +21,11 @@ Discord: https://discord.com/invite/k2GvUUT4bm
 - Open VitaShell, connect your PS Vita to your PC and copy the contents of the .ZIP file (Not the ZIP file itself, just files inside it) over to ```ux0:app/STAR10000/``` (Picture Below of how it should look after copying everything).
 - <img width="274" height="142" alt="318109423-4192edd4-00da-4247-8952-bb630a94bc22" src="https://github.com/user-attachments/assets/f4d5984a-aa77-4f5c-adb0-add1f10f5a29" />
 - Launch the game ! 
+
+Known Issues:
+- Save/Load system not implemented yet.
+
+*Thanks to PatnosD for everything*
+
+Have fun !
+Port by MaloneCZSD.
