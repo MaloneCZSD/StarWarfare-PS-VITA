@@ -11,7 +11,7 @@ Ko-Fi: https://ko-fi.com/maloneczsd
 
 Discord: https://discord.com/invite/k2GvUUT4bm
 
-#Patching
+# Patching
 - Download Star Warfare VPK from VitaDB/Github and install it.
 - Go to the [decompilation project](https://github.com/Decomp-And-Recomp/Star-Warfare/releases/tag/1.0.2) release page and download ```Star.Warfare.Android.apk```.
 - Extract it.
